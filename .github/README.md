@@ -20,7 +20,7 @@ This is my personal resume, written out using `universal resume template` as a g
 ## How to run it
 Clone the git repository 
 ```
-git clone https://github.com/Thomashighbaugh/resume
+git clone https://github.com/alexzhaohong/resume
 ```
 
 Navigate to the base directory:
